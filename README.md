@@ -1,1 +1,1 @@
-# Herterogeneous Cpmputing Labs
+# Heterogeneous Computing Labs

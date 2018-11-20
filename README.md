@@ -1,1 +1,1 @@
-# Herterogeneous Cpmputing Labs
+# EECE6540 Heterogeneous Computing Labs
